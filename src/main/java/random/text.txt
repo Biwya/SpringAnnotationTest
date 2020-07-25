@@ -1,0 +1,17 @@
+OOP sunt 4 principii:
+
+1. Polimorphism
+2. Encapsulare
+3. Mostenire(Inheritance)
+4. ?Abstractizare
+
+
+
+clasa - macheta pentru obiect
+metoda- o actiune
+constructor - metoda care permite construirea unui obiect a unei clase
+staic - apartine clasei
+non-static - apartine obiectului
+encapsulare - Principiul enapsularii spune ca toti parametrii unei clase trebuie sa fie declarate Private si accesul catre
+              acesti parametri sa fie permis doar prin getters si setters.
+              Avantajul encapsularii este ca putem regula ce valori putem seta pentru parametrii obiectelor noastre
